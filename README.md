@@ -109,8 +109,7 @@ in code you’ll find stuff like:
 
 ## why this exists
 
-my sch open house project but i put a lil too much effort so here we are
-
+i was gonna make this fly but it didnt so its just a sad display model
 ---
 
 ## possible future upgrades
